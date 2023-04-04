@@ -1,0 +1,54 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    width: auto;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+nav {
+    display: flex;
+    width: auto;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+main {
+    display: flex;
+    height: 100%;
+    width: auto;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+footer {
+    display: flex;
+    width: auto;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
