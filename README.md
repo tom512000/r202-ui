@@ -14,3 +14,7 @@ Une fois le serveur local lançé, [ouvrir la page d'accueil dans le navigateur]
 ## Structuration d'applications web
 
 [Premier TP](https://iut-info.univ-reims.fr/users/jonquet/intranet/but/r202/tp/flex/index.html "sujet du TP"), traitant de la structuration des interfaces d'applications web.
+
+## Des interfaces web adaptatives
+
+ [Second TP](https://iut-info.univ-reims.fr/users/jonquet/intranet/but/r202/tp/media-queries/index.html "sujet du TP"), traitant des interfaces web adaptatives.
