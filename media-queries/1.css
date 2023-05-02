@@ -88,6 +88,7 @@ aside.main__complement {
 
     nav.menu {
         flex-direction: column;
+        width: auto;
     }
 
     article.menu__item {
@@ -95,5 +96,27 @@ aside.main__complement {
         height: 100%;
     }
 
-    C'est pas fini ...
+    main.main {
+        width: 100%;
+        height: auto;
+    }
+
+    section.main__content {
+        width: 100%;
+    }
+
+    aside.main__complement {
+        width: auto;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    nav.menu {
+        margin-left: 10%;
+    }
+    
+    main.main {
+        margin-right: 10%;
+    }
+
 }
